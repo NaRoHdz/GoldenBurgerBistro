@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@800&family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lora&family=Montserrat:wght@100;200;300;700&family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500;8..144,600;8..144,700;8..144,800;8..144,900;8..144,1000&display=swap');
+
+/*sección 1*/
+.galeria1{
+
+	background-color: #ECC9C2;
+	height: 700px;
+}
+
+/*sección 2*/
+.promos{
+	
+	background-color: #E3AEA4;
+}
+
+.promos h1{
+	color: #7D1F0C;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 5%;
+
+}
