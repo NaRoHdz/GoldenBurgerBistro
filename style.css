@@ -19,25 +19,30 @@ h1{
 	font-size: 40px;
 	text-align: center;
 	padding-top: 3%;
-	padding-bottom: 3%;
+	padding-bottom: 2%;
 
 }
 
-.promos{
-	padding: 8%;
-	text-align: center;
+.container_promo {
+
 	background-color: #E3AEA4;
-    display: flex;
+	display: flex;
 	flex-direction: row;
-	justify-content: space-evenly;
+	flex-wrap: wrap;
 	align-items: center;
-	
+	justify-content: center;
+	padding-top: 30px;
+
+  
 }
 
-.promos div{
-	margin-right: 30px;
-	margin-bottom: 30px;
+.item{
+	height: 341px;
+	width:auto;
+	margin: 20px;
+
 }
+
 
 /*sección 3- */
 
